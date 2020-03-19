@@ -1,4 +1,4 @@
-# Cadmus 
+# Kadmus 
 
 Automatic strong type generation/derivation from `json` instances.
 
